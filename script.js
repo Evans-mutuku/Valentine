@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function writeToFirebase() {
         if (typeof firebase !== 'undefined' && firebase.apps.length > 0) {
             const db = firebase.firestore();
-            db.collection("valentine").add({
+            db.collection("JsMommy").add({
                 timestamp: firebase.firestore.FieldValue.serverTimestamp(),
                 response: "YES! 💝",
                 attempts_to_click_no: noHoverCount,
