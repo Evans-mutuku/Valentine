@@ -3,15 +3,12 @@
 
 Submit a pull request to win my heart (and some pretty sweet prizes)
 
-Grand Prize Winner
-A romantic getaway to Diani Beach, Kenya! 🏖️✈️
+### Grand Prize Winner
+- A romantic getaway to Diani Beach, Kenya! 🏖️✈️
+- Sunset walks (perfect for debugging relationship issues) 🌅
+- All expenses paid by one smitten CTO 💸
 
-White sandy beaches ✨
-Crystal blue waters 🌊
-Sunset walks (perfect for debugging relationship issues) 🌅
-All expenses paid by one smitten CTO 💸
-
-🥈 First Runner-Up
+### First Runner-Up
 Coffee dates with yours truly! ☕️😎
 
 Discuss APIs over Americanos
