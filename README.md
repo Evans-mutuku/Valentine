@@ -1,4 +1,4 @@
-##  Be My Girlfriend: The Ultimate Tech Challenge
+##  Be My Girlfriend: The Ultimate JsDaddie Tech Challenge
 Submit a pull request to win my heart (and some pretty sweet prizes)
 ### Grand Prize Winner
 - A romantic getaway to Diani Beach, Kenya! 
